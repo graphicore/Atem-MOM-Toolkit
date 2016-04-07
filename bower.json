@@ -1,0 +1,32 @@
+{
+  "name": "Atem-MOM-Toolkit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/graphicore/Atem-MOM-Toolkit",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "Atem-Project: shared tools used to render the Metapolator Object Model in user interfaces.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Atem",
+    "Metapolator",
+    "MOM"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Atem-CPS": "graphicore/Atem-CPS",
+    "Atem-Errors": "graphicore/Atem-Errors",
+    "Atem-MOM": "git@github.com:graphicore/Atem-MOM.git",
+    "Atem-Pen-Case": "git@github.com:graphicore/Atem-Pen-Case.git"
+  }
+}
