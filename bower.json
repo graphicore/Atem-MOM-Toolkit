@@ -27,6 +27,7 @@
     "Atem-CPS": "graphicore/Atem-CPS",
     "Atem-Errors": "graphicore/Atem-Errors",
     "Atem-MOM": "git@github.com:graphicore/Atem-MOM.git",
-    "Atem-Pen-Case": "git@github.com:graphicore/Atem-Pen-Case.git"
+    "Atem-Pen-Case": "git@github.com:graphicore/Atem-Pen-Case.git",
+    "Atem-CPS-Toolkit": "graphicore/Atem-CPS-Toolkit"
   }
 }
