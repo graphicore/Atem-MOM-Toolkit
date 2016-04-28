@@ -24,10 +24,10 @@
     "tests"
   ],
   "dependencies": {
-    "Atem-CPS": "graphicore/Atem-CPS",
-    "Atem-Errors": "graphicore/Atem-Errors",
-    "Atem-MOM": "git@github.com:graphicore/Atem-MOM.git",
-    "Atem-Pen-Case": "git@github.com:graphicore/Atem-Pen-Case.git",
-    "Atem-CPS-Toolkit": "graphicore/Atem-CPS-Toolkit"
+    "Atem-CPS": "https://github.com/graphicore/Atem-CPS.git",
+    "Atem-Errors": "https://github.com/graphicore/Atem-Errors.git",
+    "Atem-MOM": "https://github.com/graphicore/Atem-MOM.git",
+    "Atem-Pen-Case": "https://github.com/graphicore/Atem-Pen-Case.git",
+    "Atem-CPS-Toolkit": "https://github.com/Atem-CPS-Toolkit.git"
   }
 }
