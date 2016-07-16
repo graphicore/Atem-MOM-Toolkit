@@ -28,6 +28,8 @@
     "Atem-Errors": "https://github.com/graphicore/Atem-Errors.git",
     "Atem-MOM": "https://github.com/graphicore/Atem-MOM.git",
     "Atem-Pen-Case": "https://github.com/graphicore/Atem-Pen-Case.git",
-    "Atem-CPS-Toolkit": "https://github.com/graphicore/Atem-CPS-Toolkit.git"
+    "Atem-CPS-Toolkit": "https://github.com/graphicore/Atem-CPS-Toolkit.git",
+    "Atem-Math-Tools": "Atem-Math-Tools": "graphicore/Atem-Math-Tools",
+    "Atem-Property-Language": "Atem-Property-Language": "graphicore/Atem-Property-Language"
   }
 }
